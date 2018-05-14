@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:1:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/35915a94048e3a4b802aaf7c43e64bcc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/48e89fd5ac776f9442f8eb416beed959/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/seiji/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/806c653a4a2d1e7fb11ab6a8ac75a853/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bc940245004f818e186b305c358a3347/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/68556cafd915ff7566f2341fcbb5e64b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d1ef213c7289e02c04debfb7f6fc7cff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8cc9eb23a21a03682518ba55310d87c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6d6d4530540a98d55231b08ee98904f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/55e6ee59eb3355ab209f3790a11c39ba/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/seiji/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/58d1e2c8fda9b96cb64af2e6ec8b699c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/seiji/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b07d284a4785a8fdf1c063b4c13481d9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/seiji/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9eacfd3aa378d2ada180cb1d0c52833c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/seiji/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/627e7700d6accb0db6e5beaa5927766c/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:1:1-21:12
+	package
+		ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml
+		ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:1:1-21:12
+		INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml
+		ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:1:1-21:12
+		INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:2:5-63
+application
+ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:4:3-20:17
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/seiji/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/806c653a4a2d1e7fb11ab6a8ac75a853/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/seiji/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/806c653a4a2d1e7fb11ab6a8ac75a853/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:5:7-39
+	android:icon
+		ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:6:7-41
+	android:allowBackup
+		ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:8:7-34
+	android:theme
+		ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.sqisland.android.espresso.cat_names.MainActivity
+ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:9:5-16:16
+	android:label
+		ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:11:9-41
+	android:name
+		ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:10:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:12:7-15:23
+action#android.intent.action.MAIN
+ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:13:9-60
+	android:name
+		ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:13:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:14:9-68
+	android:name
+		ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:14:19-66
+activity#com.sqisland.android.espresso.cat_names.IdeasActivity
+ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:17:5-19:46
+	android:label
+		ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml:18:9-38
+uses-sdk
+INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml
+INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/35915a94048e3a4b802aaf7c43e64bcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/35915a94048e3a4b802aaf7c43e64bcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/48e89fd5ac776f9442f8eb416beed959/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/48e89fd5ac776f9442f8eb416beed959/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/seiji/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/806c653a4a2d1e7fb11ab6a8ac75a853/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/seiji/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/806c653a4a2d1e7fb11ab6a8ac75a853/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bc940245004f818e186b305c358a3347/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bc940245004f818e186b305c358a3347/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/68556cafd915ff7566f2341fcbb5e64b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/68556cafd915ff7566f2341fcbb5e64b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d1ef213c7289e02c04debfb7f6fc7cff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d1ef213c7289e02c04debfb7f6fc7cff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8cc9eb23a21a03682518ba55310d87c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8cc9eb23a21a03682518ba55310d87c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6d6d4530540a98d55231b08ee98904f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6d6d4530540a98d55231b08ee98904f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/55e6ee59eb3355ab209f3790a11c39ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/seiji/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/55e6ee59eb3355ab209f3790a11c39ba/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/seiji/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/58d1e2c8fda9b96cb64af2e6ec8b699c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/seiji/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/58d1e2c8fda9b96cb64af2e6ec8b699c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/seiji/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b07d284a4785a8fdf1c063b4c13481d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/seiji/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b07d284a4785a8fdf1c063b4c13481d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/seiji/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9eacfd3aa378d2ada180cb1d0c52833c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/seiji/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9eacfd3aa378d2ada180cb1d0c52833c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/seiji/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/627e7700d6accb0db6e5beaa5927766c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/seiji/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/627e7700d6accb0db6e5beaa5927766c/AndroidManifest.xml:20:5-44
+INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml
+INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml
+		ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml
+		ADDED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTest/Start/app/src/main/AndroidManifest.xml
